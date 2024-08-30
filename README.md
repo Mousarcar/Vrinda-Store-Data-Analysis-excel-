@@ -1,15 +1,6 @@
 # Vrinda Store Data Analysis
 # Introduction
-* The order table from Vrinda Store captures essential
-details of customer transactions, including unique
-order and customer IDs, demographics, order
-specifics, financials, and shipping information. It
-records sales channels, product details with SKUs,
-categories, sizes, and quantities, along with
-transaction currencies and total amounts. The
-dataset also indicates B2B transactions, providing a
-comprehensive foundation for detailed analysis and
-strategic decision-making in store operations.
+* Vrinda  is one of the leading businesses in the Salwar Kameez Designers. Also known for Shoe Dealers, Boutiques, Shoe Dealers-Nike, Women Kurti Retailers, Man shoe dealers, Sport shoe dealers and much more
 # Business Goal
 * Vrindra Store Wants to create an annual
 sales report for 2022.So that, Vrindra can
